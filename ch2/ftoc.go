@@ -13,3 +13,11 @@ func fToC(f float64) float64 {
 }
 
 
+func incr(p *int) int {
+	/**
+	note:
+	只是增加p指向的变量的值，不改变p指针
+	 */
+	*p++
+	return *p
+}
