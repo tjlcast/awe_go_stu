@@ -36,3 +36,4 @@ var pc1 [256]byte = func() (pc [256]byte) {
 
 func main() {
 }
+
