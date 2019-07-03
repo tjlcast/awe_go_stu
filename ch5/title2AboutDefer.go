@@ -19,6 +19,6 @@ func ReadFile(filename string) ([]byte, error) {
 	}
 
 	defer f.Close()
-	return ReadAll(f)
+	//return ReadAll(f)
 }
 
