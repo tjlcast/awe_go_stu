@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77461337-b8f3-4ce5-8c30-7c03e0e8b7ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/title2AboutDefer.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch5/title2AboutDefer.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -174,9 +172,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="121" />
-    <option name="y" value="92" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="422" />
+    <option name="y" value="178" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -289,7 +287,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="121" y="92" width="1440" height="873" extended-state="0" />
+    <frame x="422" y="178" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
